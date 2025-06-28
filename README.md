@@ -1,2 +1,2 @@
-# Character-count
-First project
+The Character Counter Web Application is a lightweight and interactive web tool designed to help users analyze text input in real-time. It provides instant feedback on various text metrics including total characters, word count, sentence count, estimated reading time, and letter density.
+Built using HTML, CSS, and JavaScript, this tool enhances writing productivity by offering live updates, input restrictions, and visualization features — all within a clean, responsive user interface.
